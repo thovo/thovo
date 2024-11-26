@@ -11,17 +11,17 @@ Hello, welcome to my Github profile, let me tell you something about myself:
 - 💬 Ask me about Angular or Total Warhammer 3, I am happy to help!
 - 📫 How to reach me: Find me on Linkedin, this is the quickest way to reach me!
 - 😄 Pronouns: He/him, why do I need to write that out, lol
-- ⚡ Fun fact: I can beat almost everyone on Stone Age, a very fun board game.
+- ⚡ Fun fact: I can beat almost everyone on Stone Age, a very fun board game. And sometime, chess ^^
 
 
 
-  ## Articles
+## Articles
 
   I'm writing a lot of articles, here is some you can read:
   - [The image in the past, today, and tomorrow](https://medium.com/ekino-france/the-image-in-the-past-today-and-tomorrow-c7e46000cb64) 
   - [SEO: Pourquoi mon site n’est pas sur Google ? LCP, l’histoire secrète de la WebPerf](https://medium.com/ekino-france/seo-pourquoi-mon-site-nest-pas-sur-google-lcp-l-histoire-secr%C3%A8te-de-la-webperf-e9055f8932be) :fr:
 
- ## Conferences
+## Conferences
 
  I am on my way to becoming a speaker, here is the list of conferences where I presented my subjects:
  - [Devfest Berlin - Largest Contentful Paint - The unheard story](https://gdg.community.dev/events/details/google-gdg-berlin-presents-devfest-berlin-2024/)
